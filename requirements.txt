@@ -1,0 +1,7 @@
+flask
+gunicorn
+rembg
+pillow
+opencv-python-headless
+onnxruntime
+werkzeug
